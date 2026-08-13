@@ -1,7 +1,7 @@
-# Local Link
+# LocalConnect
 
 ## 📌 Project Overview
-**Local Link** is a local service provider platform designed to connect **service providers** with **customers** seamlessly.  
+**LocalConnect** is a local service provider platform designed to connect **service providers** with **customers** seamlessly.  
 Built with **Flask, SQLAlchemy, and Flask-Login**, this project is ideal for **students, beginners, and learners** who want to understand how real-world service platforms are built.
 
 This platform can be considered:
