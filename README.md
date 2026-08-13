@@ -113,9 +113,3 @@ Password: admin123
 - ✅ Real-time Chat using WebSockets  
 - ✅ Push Notifications  
 - ✅ Advanced Search & Filtering  
-
----
-
-## ✨ Author
-Developed by **Vaibhav Rawat**  
-For learning and academic purposes.
